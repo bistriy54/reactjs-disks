@@ -1,0 +1,3 @@
+[submodule "disks_shop"]
+	path = disks_shop
+	url = git@github.com:krai54rus/disks_shop.git
