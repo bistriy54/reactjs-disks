@@ -5,10 +5,6 @@ Pet project на React,Express + MongoDB - Интернет магазин ди�
 
 Команды для скачивания/запуска проекта:
 git clone --recurse-submodules https://github.com/bistriy54/reactjs-disk
-cd ./disks_back
-npm i
-cd ../disks_shop
-npm i
 
 -----
 Фронт - на React , :3000 порт
